@@ -1,10 +1,24 @@
 ---
-title: Hunkerdoo
+title: Quality engineering
 img: 20
 rating: 3
 date: 0002-01-01
 ---
 
-Officia irure deserunt ut consequat pariatur ea aute proident anim reprehenderit commodo non. Ipsum cillum dolore aute tempor cupidatat commodo amet duis voluptate consectetur. Est sit culpa ipsum proident et est do eu velit deserunt non cillum. Nostrud voluptate consequat consectetur quis labore pariatur elit nostrud. Amet nisi dolor qui consequat laborum cupidatat dolor et deserunt labore aliqua veniam ipsum officia.
+> Bringing quality to all aspects of a project.
 
-Ut ea excepteur dolor sint. Pariatur Lorem ut ad et ea do consectetur enim veniam fugiat anim Lorem eu. Eiusmod eu duis dolor veniam dolor eiusmod voluptate magna irure excepteur aliqua. Amet consectetur labore labore proident fugiat.
+## Primary benefits of Quality Engineering
+- Quality assurance and testing across the SDLC. 
+- Helping teams standardize the application of quality requirement.
+- Adopt tooling to increase the efficiency of the process. 
+- Automating tests to eliminate issues related to manual testing.
+- Integrating testing into CI/CD pipelines.
+
+## Test development in line with development cycle.
+- Every test should be able to provide the same answer of "Yes", at any point, to the question "Are you useful?".
+- Starting lean with test framework is logical, wait for test developmemnt to highlight possible requirement.
+- Native tools always preferred, firstly for synergy with development and secondly performance and scope larger.
+- Test frameworks should be part of app codebase.
+
+
+<!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->
