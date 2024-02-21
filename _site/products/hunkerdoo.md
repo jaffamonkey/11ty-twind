@@ -21,4 +21,4 @@ date: 0002-01-01
 - Test frameworks should be part of app codebase.
 
 
-<!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->
+[Book an intro meeting](https://calendly.com/jaffamonkeyltd/intro-call)
