@@ -1,6 +1,6 @@
 ---
 title: Quality engineering
-img: 20
+img: 0
 rating: 3
 date: 0002-01-01
 ---
